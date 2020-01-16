@@ -1,5 +1,6 @@
 # pygameTetris
 Tetris game made using pygame and python
+requiers python >= 3.7 and pygame >= 1.9.6
 **Controls**
 up arrow - slow the time (hold the key)
 down arrow - speed the time (hold the key)
